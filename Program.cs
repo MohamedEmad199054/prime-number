@@ -4,9 +4,7 @@ namespace std
 
     //AN VAIRABLE IN MAIN YOU MUST FO GIVE IT A INITIAL VALUE 
 {
-   
-
-    class Programme
+ class Programme
     {
         static void Main(string[] args)
         {
@@ -50,15 +48,21 @@ namespace std
 
             }
 
-
-
-
-
         }
-
-
-
 
     }
 }
 
+   
+
+
+
+
+
+
+
+
+
+
+
+   
